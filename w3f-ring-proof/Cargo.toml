@@ -1,5 +1,5 @@
 [package]
-name = "w3f-ring-proof"
+name = "ring"
 version = "0.0.2"
 edition = "2021"
 authors = ["Sergey Vasilyev <swasilyev@gmail.com>"]
